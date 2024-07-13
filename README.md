@@ -20,7 +20,7 @@ To run this project locally, simply clone the repository and open the `index.htm
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/todo-list.git
+    git clone https://github.com/SeemaSaharan1/to-do-list
     ```
 2. **Navigate to the project directory**:
     ```bash
